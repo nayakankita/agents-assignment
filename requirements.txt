@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pandas
+python-dotenv
+pydantic
+pypdf
+

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Chroma / local DBs
+chroma_db/
+*.sqlite3
+*.bin
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
