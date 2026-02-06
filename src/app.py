@@ -3,7 +3,7 @@ from datetime import datetime
 
 # Import your router / graph entrypoint
 # Change these imports based on your actual code
-from router_graph import build_graph  # or from router_graph import router_graph
+from src.router_graph import build_graph  # or from router_graph import router_graph
 
 st.set_page_config(page_title="Multi-Agent RAG + Coding Demo", layout="wide")
 
